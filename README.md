@@ -57,11 +57,18 @@ In figure 1.1, you can see there is two screen of Wishlist. in first screen you 
 	<strong>Figure 1.3 :-</strong><emp> a)MainScreen b)Add New Item Page c) Item Added to List</emp>
 </p>
 
- ### Steps:-
+ Steps:-
  
  1. Open Application and you see blank screen if you first time as Figure 1.3 a)
 1. Click on red hover button on bottom right corner as shown in Figure 1.3 a)
 1. After click on button, you will see form to add item as Figure 1.3 b)
 1. Click on add and application return to main page and you can see item as Figure 1.3 c)
 
-### So it is processed to add single item to wishlist, for furture may we add import function if possible.
+So it is processed to add single item to wishlist, for furture may we add import function if possible.
+
+<p align="center">
+	<img src="Images/SideScreen.png" width="150">
+</p>
+<p align="center">
+	<strong>Figure 1.4 :- </strong><emp>Side Hover Menu</emp>
+</p>
