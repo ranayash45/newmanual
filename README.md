@@ -6,22 +6,15 @@ It is a mobile application or software which allow user to store list of items w
 
 ## Main Screen
 <p align="center">
-	<table style="display:inline-block; position:relative;">
-		<tr>
-		<td>
-		<img src="Images/MainScreen.png" width="150">
-		</td>
-		<td>
-		<img src="Images/MainScreen.png" width="150">
-		</td>
-		
-		</tr>
-		<td>
-			<h4>Figure 1.1 Empty main screen</h4>
-		</td>
-		<td>
-			<h4> Figure 1.2 Items in Wishlist </h4>
-		</td>
-		</tr>
-	</table>
+	<figure align="center">
+		a) <img src="Images/MainScreen.png" width="150">
+		b) <img src="Images/MainScreen2.png" width="150">
+		<figcaption><strong>Figure 1.1</strong><em> a) Empty Main Screen b) Screen Filled with needed item </em>
+		</figcaption>
+	</figure>
 </p>
+In figure 1.1, you can see there is two screen of Wishlist. in first screen you can see empty screen with no item needed and second screen you can see the needed item in wishlist.
+
+There are major four parts of application.
+
+1.
