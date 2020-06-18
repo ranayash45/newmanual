@@ -66,9 +66,50 @@ In figure 1.1, you can see there is two screen of Wishlist. in first screen you 
 
 So it is processed to add single item to wishlist, for furture may we add import function if possible.
 
+## Side Hover Menu
+
 <p align="center">
 	<img src="Images/SideScreen.png" width="150">
 </p>
 <p align="center">
 	<strong>Figure 1.4 :- </strong><emp>Side Hover Menu</emp>
 </p>
+
+<p>
+	Here in figure 1.4 , you can see  side hover menu which includes AboutUs, Privacy Policy, Notification Toggler and Exit Option. 
+</p>
+
+<p>
+	You can disable notifications by switch off notifcation toggler shown in Side Hover Menu.
+</p>
+<p>
+	About Us option displayed app owner's information such as Company Name, Designer Name, Developer Name. 
+</p>
+<p>
+	Privacy Policy option displays company's privacy terms and conditions of application.
+</p>
+
+## Filter Options
+
+<p align="center">
+	a) <img src="Images/MainScreen.png" width="150">
+	b) <img src="Images/Filter1.png" width="150">
+	c) <img src="Images/Filter2.png" width="150">
+	d) <img src="Images/Filter3.png" width="150">
+</p>
+<p align="center"><strong>Figure 1.4:- </strong><emp>a) Non Filter b) Sorting Filter c) Purchased Filter d) Category Filter</emp> </p>
+<p>There are three major filters available in applications.</p>
+
+1. Sorting Filter
+	1. Newest First - Last Item added shown first in wishlist.
+	1. Oldest First - Very first item added shown first in wishlist.
+	1. Ascending - Item showed in A to Z Manner.
+	1. Decending  - Item Showed in Z to A Manner.
+1. Purchased Filter
+	1. Not Purchased - Item which need to be purchased is shown.
+	1. Purchased - Item which is alread purchased.
+1. Category Filter
+	1. All Categories - Show all item belonging any category.
+	1. Electronics(Based on what user add) - Show all item beloging to selected to category.
+
+	
